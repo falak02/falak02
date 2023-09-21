@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @falak02
-- 👀 I’m interested in .web development,graphic designing..
+- 👀 I’m interested in .web development, designing websites..
 - 🌱 I’m currently learning .python..
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me khanfalaknaaz@gmail.com...
